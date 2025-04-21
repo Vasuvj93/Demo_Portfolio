@@ -6,7 +6,7 @@ This is a simple portfolio website built using HTML, CSS (and optionally JavaScr
 - **Contact** – A simple contact page to reach out.
 
 ## 🔗 Live Preview
-[View Website](#)
+[View Website](https://vasuvj93.github.io/Demo_Portfolio/)
 
 ## 📁 Project Structure
 
