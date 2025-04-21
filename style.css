@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    padding: 50px;
+}
+.Section_one{
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+.Section_one__contact{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.Section_one__contact:hover{
+    color: white;
+    background-color: blue;
+}
+.Section_one__name{
+    font-size: 45px;
+}
+.Section_one__programme{
+    font-size: 30px;
+}
+.Section_two,.Section_Three,.Section_Four,.Section_Five{
+   margin-top: 20px;
+}
+.Section_two__Description,.Section_Three__Description,.Section_Four__description,.Section_Five__description{
+    margin-top: 10px;
+}
+.Section_Five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.Section_Five__title a{
+    color: skyblue;
+    text-decoration: none;
+}
+.Section_Five__title a:hover{
+    color: red;
+    cursor: pointer;
+}
+.Section_Three li,.Section_Four li{
+    list-style: none;
+}
+.Section_Three{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 250px;
+    border-radius: 10px;
+   padding: 20px;
+    vertical-align: top;
+}
+.Section_Four{
+    background-color: orangered;
+    display: inline-block;
+    height: 250px;
+    width: 800px;
+    border-radius: 10px;
+    padding: 20px;
+    vertical-align: top;
+}
+.contact-form{
+    margin-top: 10px;
+}
+.Contact-form__input,.Contact-form__textarea,.Contact-form__submit{
+    margin-top: 10px;
+}
+.Contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.Contact-form__textarea{
+    padding: 10px;
+    border: solid black 1px;
+}
+.Contact-form__submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+.Contact-form__submit:hover{
+    background-color: green;
+    color: black;
+}
